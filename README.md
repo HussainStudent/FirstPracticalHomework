@@ -1,2 +1,2 @@
 # FirstPracticalHomework
-this is java code to print my name
+this is a java code to print my name
